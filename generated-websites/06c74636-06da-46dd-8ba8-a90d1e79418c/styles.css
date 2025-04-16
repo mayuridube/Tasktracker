@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f7f1e3; /* Light orange background */
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+#hello-text {
+    font-size: 4em;
+    color: #e67e22; /* Bright orange text */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    animation: colorChange 5s infinite alternate, fadeIn 2s ease-in-out;
+}
+
+@keyframes colorChange {
+    0% {
+        color: #e67e22; /* Bright orange */
+    }
+    50% {
+        color: #d35400; /* Darker orange */
+    }
+    100% {
+        color: #e67e22; /* Bright orange */
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

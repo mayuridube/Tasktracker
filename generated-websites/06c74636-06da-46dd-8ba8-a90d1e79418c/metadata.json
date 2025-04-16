@@ -1,0 +1,5 @@
+{
+  "id": "06c74636-06da-46dd-8ba8-a90d1e79418c",
+  "createdAt": "2025-04-16T11:10:59.361Z",
+  "description": "A simple 'Hello World' website with an orange color scheme. The heading text has a color-changing animation and a subtle shadow.  There is also a fade-in animation on page load. An optional JavaScript snippet is included to demonstrate basic interactivity, changing the text on click."
+}
