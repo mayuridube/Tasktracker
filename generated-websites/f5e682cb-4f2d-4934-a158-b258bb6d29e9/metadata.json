@@ -1,0 +1,5 @@
+{
+  "id": "f5e682cb-4f2d-4934-a158-b258bb6d29e9",
+  "createdAt": "2025-04-16T13:56:00.682Z",
+  "description": "This is a simple blogging website built with HTML, CSS, and no JavaScript. It includes a header with navigation, a main section with blog posts, and a footer. Each blog post contains a title, publication date, image, and a short description, along with a 'Read More' link. The CSS provides styling for a visually appealing layout, responsive design for different screen sizes and better readability."
+}

@@ -1,0 +1,1 @@
+/* No javascript needed for this simple blog */
